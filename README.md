@@ -6,7 +6,8 @@ A professional restaurant website created as part of my **External CSS Homework*
 
 **Bhalerao's Rasoi** is a restaurant website designed using **HTML and External CSS**. The project demonstrates how a separate CSS file can be used to create a consistent and professional design across multiple HTML pages.
 
-## Demo Link : 
+## Demo Link : https://thesumitbhalerao.github.io/External-CSS/
+
 ## 🛠️ Technologies Used
 
 * HTML
